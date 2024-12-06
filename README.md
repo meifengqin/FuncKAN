@@ -1,2 +1,2 @@
 # FuncKAN
-The project codes  and data website will be uploaded later.
+The project codes  and data websites will be uploaded later.
